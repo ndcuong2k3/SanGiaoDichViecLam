@@ -1,0 +1,175 @@
+﻿@page
+@model JobPageModle
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Danh Sách Tin Tuyển Dụng</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f0f2f5;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 1200px;
+            margin: 20px auto;
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .job-list {
+            display: flex;
+            flex-direction: column;
+            gap: 15px; /* Add spacing between job items */
+        }
+
+        .job-item {
+            display: flex;
+            align-items: flex-start; /* Align items at the start */
+            padding: 15px;
+            border-radius: 8px;
+            background-color: #f9f9f9;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: box-shadow 0.3s, transform 0.3s;
+        }
+
+            .job-item:hover {
+                transform: translateY(-3px);
+                box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+            }
+
+        .job-info {
+            flex: 1;
+            margin-left: 15px;
+        }
+
+        .job-title {
+            font-weight: 600;
+            color: #2c3e50;
+            font-size: 1.2em;
+            margin-bottom: 8px;
+        }
+
+        .job-details {
+            font-size: 0.95em;
+            color: #555;
+            display: flex;
+            align-items: center;
+            gap: 8px; /* Space between icons and text */
+        }
+
+            .job-details span.icon {
+                color: #28a745;
+                font-size: 1.1em;
+            }
+
+        .job-salary {
+            margin-top: 20px;
+            font-weight: 600;
+            color: #28a745;
+            font-size: 1.1em;
+            margin-left: auto; /* Push to the right */
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .apply-button {
+            margin-left: 15px;
+            display: flex;
+            align-items: center;
+        }
+
+            .apply-button a {
+                margin-top: 15px;
+                display: inline-block;
+                padding: 8px 16px;
+                background-color: #28a745; /* Green for "Xem danh sách ứng viên" */
+                color: #ffffff;
+                text-decoration: none;
+                border-radius: 5px;
+                font-size: 0.95em;
+                transition: background-color 0.3s, transform 0.3s;
+            }
+
+                .apply-button a:hover {
+                    background-color: #218838; /* Darker green for hover */
+                    transform: translateY(-2px);
+                }
+
+        .add-job-button-container {
+            display: flex;
+            justify-content: center;
+            margin-top: 30px;
+        }
+
+        .add-job-button {
+            padding: 12px 24px;
+            background-color: #007bff; /* Blue for "Đăng tin tuyển dụng mới" */
+            color: #ffffff;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 1.1em;
+            border: none;
+            cursor: pointer;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: background-color 0.3s, transform 0.3s;
+        }
+
+            .add-job-button:hover {
+                background-color: #0056b3; /* Darker blue for hover */
+                transform: translateY(-3px);
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Danh Sách Tin Tuyển Dụng</h2>
+        <div class="job-list">
+            @if (Model.tblTinTuyenDung.Count > 0)
+            {
+                @foreach (var job in Model.tblTinTuyenDung)
+                {
+                    <div class="job-item">
+                        <div class="job-info">
+                            <span class="job-title">@job.sTenTinTD</span>
+                            <div class="job-details">
+                                <span class="icon">📍</span><span>@job.sNoiLamViec</span>
+                            </div>
+                            <div class="job-details">
+                                <span class="icon">📅</span><span>@job.dNgayDang.ToShortDateString()</span>
+                            </div>
+                        </div>
+                        <div class="job-salary">
+                            <span class="icon">💰</span>@job.iMucLuong.ToString("N0") VNĐ
+                        </div>
+                        <div class="apply-button">
+                            <a href="#">Xem danh sách ứng viên</a>
+                        </div>
+                    </div>
+                }
+            }
+            else
+            {
+                <p style="text-align: center;">Hiện tại chưa có tin tuyển dụng nào.</p>
+            }
+        </div>
+        <div class="add-job-button-container">
+            <a href="/AddJob" class="add-job-button">Đăng tin tuyển dụng mới</a>
+        </div>
+    </div>
+</body>
+</html>

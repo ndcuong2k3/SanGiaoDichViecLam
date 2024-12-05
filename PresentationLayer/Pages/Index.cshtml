@@ -1,0 +1,39 @@
+﻿@* @page
+@model ProductPageModel
+
+<h2>Product List</h2>
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Stock</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model.Products)
+        {
+            <tr>
+                <td>@product.ProductID</td>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+                <td>@product.StockQuantity</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h3>Add Product</h3>
+<form method="post">
+    <input type="text" name="name" placeholder="Name" />
+    <input type="number" name="price" placeholder="Price" />
+    <input type="number" name="stockQuantity" placeholder="Stock" />
+    <button type="submit">Add Product</button>
+</form>
+
+@if (!string.IsNullOrEmpty(Model.Message))
+{
+    <p>@Model.Message</p>
+}
+ *@

@@ -1,0 +1,12 @@
+D:\Project\SanGiaoDichViecLam\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\Project\SanGiaoDichViecLam\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Project\SanGiaoDichViecLam\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Project\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Project\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Project\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\Project\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Project\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\Project\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\Project\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\Project\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

@@ -1,0 +1,15 @@
+D:\Project\SanGiaoDichViecLam\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.deps.json
+D:\Project\SanGiaoDichViecLam\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+D:\Project\SanGiaoDichViecLam\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+D:\Project\SanGiaoDichViecLam\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Project\SanGiaoDichViecLam\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Project\SanGiaoDichViecLam\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Project\SanGiaoDichViecLam\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\SanGiaoDichViecLam\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\Project\SanGiaoDichViecLam\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfo.cs
+D:\Project\SanGiaoDichViecLam\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Project\SanGiaoDichViecLam\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CopyComplete
+D:\Project\SanGiaoDichViecLam\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.dll
+D:\Project\SanGiaoDichViecLam\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
+D:\Project\SanGiaoDichViecLam\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
+D:\Project\SanGiaoDichViecLam\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll
