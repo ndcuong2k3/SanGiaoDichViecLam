@@ -7,12 +7,11 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorPages();
 
-builder.Services.AddDbContext<ProductDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("Data Source = CUONG\\MSSQLSERVER01;Initial Catalog=TestKTPM;Persist Security Info = True;TrustServerCertificate=True; User=sa;Password=cuong")));
+
 builder.Services.AddDbContext<JobDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("Data Source = CUONG\\MSSQLSERVER01;Initial Catalog=TestKTPM;Persist Security Info = True;TrustServerCertificate=True; User=sa;Password=cuong")));
 
-builder.Services.AddTransient<ProductManager>();
+
 builder.Services.AddTransient<JobManager>();
 
 var app = builder.Build();

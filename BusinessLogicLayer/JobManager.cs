@@ -21,7 +21,7 @@ namespace BusinessLogicLayer
             return _context.tblTinTuyenDung.ToList(); 
         }
 
-        // Phương thức thêm sản phẩm mới vào cơ sở dữ liệu
+       
         public void AddJob(TinTuyenDung tinTuyenDung)
         {
             _context.tblTinTuyenDung.Add(tinTuyenDung);   

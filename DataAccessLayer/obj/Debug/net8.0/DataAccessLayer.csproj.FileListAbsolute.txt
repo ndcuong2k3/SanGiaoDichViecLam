@@ -10,3 +10,4 @@ D:\Project\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.d
 D:\Project\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
 D:\Project\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
 D:\Project\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\Project\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json

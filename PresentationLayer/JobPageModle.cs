@@ -15,7 +15,7 @@ namespace PresentationLayer
         }
 
         public List<TinTuyenDung> tblTinTuyenDung { get; set; } = new List<TinTuyenDung>();
-        public string ?Message { get; set; }
+        public string? Message { get; set; }
 
         public void OnGet()
         {
@@ -25,10 +25,16 @@ namespace PresentationLayer
 
         public IActionResult OnPost(string jobTitle, DateTime datePosted, string description, int salary, int numberOfEmployees, string workLocation)
         {
-            // Kiểm tra nếu có thông tin hợp lệ
-            if (string.IsNullOrEmpty(jobTitle) || salary <= 0 || numberOfEmployees < 0 || string.IsNullOrEmpty(workLocation))
+            // Kiểm tra nếu chuỗi không rỗng trước khi kiểm tra thông tin khác
+            if (IsStringEmpty(jobTitle, workLocation, description))
             {
-                TempData["ErrorMessage"] = "Invalid input. Please check your data.";
+                TempData["ErrorMessage"] = "Các trường thông tin không được để trống.";
+                return RedirectToPage();
+            }
+
+            if (!IsValidData(salary, numberOfEmployees))
+            {
+                TempData["ErrorMessage"] = "Nhập đúng lương và số lượng nhân viên cần tuyển";
                 return RedirectToPage();
             }
 
@@ -61,7 +67,14 @@ namespace PresentationLayer
             return RedirectToPage();
         }
 
+        private bool IsStringEmpty(params string[] values)
+        {
+            return values.Any(string.IsNullOrEmpty);
+        }
 
-
+        private bool IsValidData(int salary, int numberOfEmployees)
+        {
+            return salary > 0 && numberOfEmployees >= 0;
+        }
     }
 }
