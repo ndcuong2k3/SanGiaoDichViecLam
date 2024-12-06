@@ -89,3 +89,5 @@ D:\Project\SanGiaoDichViecLam\PresentationLayer\obj\Debug\net8.0\PresentationLay
 D:\Project\SanGiaoDichViecLam\PresentationLayer\obj\Debug\net8.0\PresentationLayer.genruntimeconfig.cache
 D:\Project\SanGiaoDichViecLam\PresentationLayer\obj\Debug\net8.0\ref\PresentationLayer.dll
 D:\Project\SanGiaoDichViecLam\PresentationLayer\obj\Debug\net8.0\PresentationLayer.sourcelink.json
+D:\Project\SanGiaoDichViecLam\PresentationLayer\bin\Debug\net8.0\DatabaseLayer.dll
+D:\Project\SanGiaoDichViecLam\PresentationLayer\bin\Debug\net8.0\DatabaseLayer.pdb

@@ -11,3 +11,6 @@ D:\Project\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\refint\DataAccess
 D:\Project\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
 D:\Project\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
 D:\Project\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+D:\Project\SanGiaoDichViecLam\DataAccessLayer\bin\Debug\net8.0\DatabaseLayer.dll
+D:\Project\SanGiaoDichViecLam\DataAccessLayer\bin\Debug\net8.0\DatabaseLayer.pdb
+D:\Project\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CopyComplete

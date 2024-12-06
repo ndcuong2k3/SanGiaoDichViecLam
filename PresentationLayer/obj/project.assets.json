@@ -1015,7 +1015,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "DataAccessLayer": "1.0.0"
+          "DataAccessLayer": "1.0.0",
+          "DatabaseLayer": "1.0.0"
         },
         "compile": {
           "bin/placeholder/BusinessLogicLayer.dll": {}
@@ -1028,6 +1029,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "DatabaseLayer": "1.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.0"
         },
@@ -1036,6 +1038,19 @@
         },
         "runtime": {
           "bin/placeholder/DataAccessLayer.dll": {}
+        }
+      },
+      "DatabaseLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DatabaseLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DatabaseLayer.dll": {}
         }
       }
     }
@@ -2837,11 +2852,17 @@
       "type": "project",
       "path": "../DataAccessLayer/DataAccessLayer.csproj",
       "msbuildProject": "../DataAccessLayer/DataAccessLayer.csproj"
+    },
+    "DatabaseLayer/1.0.0": {
+      "type": "project",
+      "path": "../DatabaseLayer/DatabaseLayer.csproj",
+      "msbuildProject": "../DatabaseLayer/DatabaseLayer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "BusinessLogicLayer >= 1.0.0"
+      "BusinessLogicLayer >= 1.0.0",
+      "DatabaseLayer >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2881,6 +2902,9 @@
           "projectReferences": {
             "D:\\Project\\SanGiaoDichViecLam\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
               "projectPath": "D:\\Project\\SanGiaoDichViecLam\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
+            },
+            "D:\\Project\\SanGiaoDichViecLam\\DatabaseLayer\\DatabaseLayer.csproj": {
+              "projectPath": "D:\\Project\\SanGiaoDichViecLam\\DatabaseLayer\\DatabaseLayer.csproj"
             }
           }
         }

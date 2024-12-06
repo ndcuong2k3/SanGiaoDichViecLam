@@ -1,0 +1,13 @@
+D:\Project\SanGiaoDichViecLam\DatabaseLayer\bin\Debug\net8.0\DatabaseLayer.deps.json
+D:\Project\SanGiaoDichViecLam\DatabaseLayer\bin\Debug\net8.0\DatabaseLayer.dll
+D:\Project\SanGiaoDichViecLam\DatabaseLayer\bin\Debug\net8.0\DatabaseLayer.pdb
+D:\Project\SanGiaoDichViecLam\DatabaseLayer\obj\Debug\net8.0\DatabaseLayer.csproj.AssemblyReference.cache
+D:\Project\SanGiaoDichViecLam\DatabaseLayer\obj\Debug\net8.0\DatabaseLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\SanGiaoDichViecLam\DatabaseLayer\obj\Debug\net8.0\DatabaseLayer.AssemblyInfoInputs.cache
+D:\Project\SanGiaoDichViecLam\DatabaseLayer\obj\Debug\net8.0\DatabaseLayer.AssemblyInfo.cs
+D:\Project\SanGiaoDichViecLam\DatabaseLayer\obj\Debug\net8.0\DatabaseLayer.csproj.CoreCompileInputs.cache
+D:\Project\SanGiaoDichViecLam\DatabaseLayer\obj\Debug\net8.0\DatabaseLayer.sourcelink.json
+D:\Project\SanGiaoDichViecLam\DatabaseLayer\obj\Debug\net8.0\DatabaseLayer.dll
+D:\Project\SanGiaoDichViecLam\DatabaseLayer\obj\Debug\net8.0\refint\DatabaseLayer.dll
+D:\Project\SanGiaoDichViecLam\DatabaseLayer\obj\Debug\net8.0\DatabaseLayer.pdb
+D:\Project\SanGiaoDichViecLam\DatabaseLayer\obj\Debug\net8.0\ref\DatabaseLayer.dll
