@@ -1,0 +1,46 @@
+﻿@page
+@model JobPageModle
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Danh sách ứng viên</title>
+</head>
+<body>
+    <h2>Danh Sách Ứng Viên</h2>
+
+    @if (Model.UngViens.Count > 0)
+    {
+        <table>
+            <thead>
+                <tr>
+                    <th>Mã Ứng Viên</th>
+                    <th>Tên Ứng Viên</th>
+                    <th>Ngày Sinh</th>
+                    <th>Địa Chỉ</th>
+                    <th>Số Điện Thoại</th>
+                    <th>Email</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var candidate in Model.UngViens)
+                {
+                    <tr>
+                        <td>@candidate.sMaUV</td>
+                        <td>@candidate.sTenUV</td>
+                        <td>@candidate.dNgaySinh.ToShortDateString()</td>
+                        <td>@candidate.sDiaChi</td>
+                        <td>@candidate.sSDT</td>
+                        <td>@candidate.sEmail</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>Không có ứng viên nào cho tin tuyển dụng này.</p>
+    }
+</body>
+</html>

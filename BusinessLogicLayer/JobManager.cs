@@ -11,7 +11,7 @@ namespace BusinessLogicLayer
     public class JobManager
     {
         private readonly JobDbContext _context;
-
+            
         public JobManager(JobDbContext context)
         {
             _context = context;
@@ -22,7 +22,17 @@ namespace BusinessLogicLayer
             return _context.tblTinTuyenDung.ToList(); 
         }
 
-       
+        public bool CheckEmpty(params string[] values)
+        {
+            return values.Any(string.IsNullOrEmpty);
+        }
+
+        public bool CheckValid(int salary, int numberOfEmployees)
+        {
+            return salary > 0 && numberOfEmployees >= 0;
+        }
+
+
         public void AddJob(TinTuyenDung tinTuyenDung)
         {
             _context.tblTinTuyenDung.Add(tinTuyenDung);   

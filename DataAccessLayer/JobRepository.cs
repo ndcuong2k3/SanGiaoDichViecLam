@@ -21,10 +21,10 @@ namespace DataAccessLayer
             return _context.tblTinTuyenDung.ToList();
         }
 
-        public void AddJob(TinTuyenDung tinTuyenDung)
-        {
-            _context.tblTinTuyenDung.Add(tinTuyenDung);
-            _context.SaveChanges();
-        }
+        //public void AddJob(TinTuyenDung tinTuyenDung)
+        //{
+        //    _context.tblTinTuyenDung.Add(tinTuyenDung);
+        //    _context.SaveChanges();
+        //}
     }
 }

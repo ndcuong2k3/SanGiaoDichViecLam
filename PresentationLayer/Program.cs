@@ -1,4 +1,5 @@
 using BusinessLogicLayer;
+using DataAccessLayer;
 using DatabaseLayer;
 using Microsoft.EntityFrameworkCore;
 
@@ -12,7 +13,11 @@ builder.Services.AddDbContext<JobDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("Data Source = CUONG\\MSSQLSERVER01;Initial Catalog=TestKTPM;Persist Security Info = True;TrustServerCertificate=True; User=sa;Password=cuong")));
 
 
+builder.Services.AddTransient<UngVienService>();
+
 builder.Services.AddTransient<JobManager>();
+
+builder.Services.AddTransient<UngVienRepository>();
 
 var app = builder.Build();
 

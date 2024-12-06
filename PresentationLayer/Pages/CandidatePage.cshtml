@@ -1,0 +1,104 @@
+﻿@page 
+@model CandidatePageModel
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Danh sách ứng viên</title>
+    <style>
+        /* CSS Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            padding: 20px;
+        }
+
+        h2 {
+            text-align: center;
+            margin-bottom: 20px;
+            font-size: 24px;
+            color: #444;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+            background-color: #fff;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        tr:hover {
+            background-color: #e9f7e9;
+        }
+
+        p {
+            text-align: center;
+            font-size: 16px;
+            color: #666;
+            margin-top: 20px;
+        
+        }
+    </style>
+</head>
+<body>
+    <h2>Danh Sách Ứng Viên</h2>
+
+    @if (Model.UngViens.Count > 0)
+    {
+        <table>
+            <thead>
+                <tr>
+                    <th>Mã Ứng Viên</th>
+                    <th>Tên Ứng Viên</th>
+                    <th>Ngày Sinh</th>
+                    <th>Địa Chỉ</th>
+                    <th>Số Điện Thoại</th>
+                    <th>Email</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var candidate in Model.UngViens)
+                {
+                    <tr>
+                        <td>@candidate.sMaUV</td>
+                        <td>@candidate.sTenUV</td>
+                        <td>@candidate.dNgaySinh.ToShortDateString()</td>
+                        <td>@candidate.sDiaChi</td>
+                        <td>@candidate.sSDT</td>
+                        <td>@candidate.sEmail</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>Không có ứng viên nào cho tin tuyển dụng này.</p>
+    }
+</body>
+</html>
