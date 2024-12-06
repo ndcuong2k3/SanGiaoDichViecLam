@@ -11,3 +11,16 @@ D:\Project\SanGiaoDichViecLam\DatabaseLayer\obj\Debug\net8.0\DatabaseLayer.dll
 D:\Project\SanGiaoDichViecLam\DatabaseLayer\obj\Debug\net8.0\refint\DatabaseLayer.dll
 D:\Project\SanGiaoDichViecLam\DatabaseLayer\obj\Debug\net8.0\DatabaseLayer.pdb
 D:\Project\SanGiaoDichViecLam\DatabaseLayer\obj\Debug\net8.0\ref\DatabaseLayer.dll
+E:\Kiến trúc PM\SanGiaoDichViecLam\DatabaseLayer\bin\Debug\net8.0\DatabaseLayer.deps.json
+E:\Kiến trúc PM\SanGiaoDichViecLam\DatabaseLayer\bin\Debug\net8.0\DatabaseLayer.dll
+E:\Kiến trúc PM\SanGiaoDichViecLam\DatabaseLayer\bin\Debug\net8.0\DatabaseLayer.pdb
+E:\Kiến trúc PM\SanGiaoDichViecLam\DatabaseLayer\obj\Debug\net8.0\DatabaseLayer.csproj.AssemblyReference.cache
+E:\Kiến trúc PM\SanGiaoDichViecLam\DatabaseLayer\obj\Debug\net8.0\DatabaseLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kiến trúc PM\SanGiaoDichViecLam\DatabaseLayer\obj\Debug\net8.0\DatabaseLayer.AssemblyInfoInputs.cache
+E:\Kiến trúc PM\SanGiaoDichViecLam\DatabaseLayer\obj\Debug\net8.0\DatabaseLayer.AssemblyInfo.cs
+E:\Kiến trúc PM\SanGiaoDichViecLam\DatabaseLayer\obj\Debug\net8.0\DatabaseLayer.csproj.CoreCompileInputs.cache
+E:\Kiến trúc PM\SanGiaoDichViecLam\DatabaseLayer\obj\Debug\net8.0\DatabaseLayer.sourcelink.json
+E:\Kiến trúc PM\SanGiaoDichViecLam\DatabaseLayer\obj\Debug\net8.0\DatabaseLayer.dll
+E:\Kiến trúc PM\SanGiaoDichViecLam\DatabaseLayer\obj\Debug\net8.0\refint\DatabaseLayer.dll
+E:\Kiến trúc PM\SanGiaoDichViecLam\DatabaseLayer\obj\Debug\net8.0\DatabaseLayer.pdb
+E:\Kiến trúc PM\SanGiaoDichViecLam\DatabaseLayer\obj\Debug\net8.0\ref\DatabaseLayer.dll

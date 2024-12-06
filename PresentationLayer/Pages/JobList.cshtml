@@ -159,7 +159,15 @@
                         <div class="apply-button">
                             <a href="#">Xem danh sách ứng viên</a>
                         </div>
+                        <form method="post" asp-page-handler="Delete" style="margin-left: 15px;">
+                            <input type="hidden" name="jobId" value="@job.sMaTinTD" />
+                            <button type="submit" style="padding: 8px 12px; background-color: #dc3545; color: #fff; border: none; border-radius: 5px; cursor: pointer;">
+                                Xóa
+                            </button>
+                        </form>
                     </div>
+
+
                 }
             }
             else

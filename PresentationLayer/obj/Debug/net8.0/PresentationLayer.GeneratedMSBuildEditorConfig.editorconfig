@@ -9,47 +9,47 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PresentationLayer
 build_property.RootNamespace = PresentationLayer
-build_property.ProjectDir = D:\Project\SanGiaoDichViecLam\PresentationLayer\
+build_property.ProjectDir = E:\Kiến trúc PM\SanGiaoDichViecLam\PresentationLayer\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Project\SanGiaoDichViecLam\PresentationLayer
+build_property.MSBuildProjectDirectory = E:\Kiến trúc PM\SanGiaoDichViecLam\PresentationLayer
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Project/SanGiaoDichViecLam/PresentationLayer/Pages/AddJob.cshtml]
+[E:/Kiến trúc PM/SanGiaoDichViecLam/PresentationLayer/Pages/AddJob.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkSm9iLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project/SanGiaoDichViecLam/PresentationLayer/Pages/Error.cshtml]
+[E:/Kiến trúc PM/SanGiaoDichViecLam/PresentationLayer/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project/SanGiaoDichViecLam/PresentationLayer/Pages/Index.cshtml]
+[E:/Kiến trúc PM/SanGiaoDichViecLam/PresentationLayer/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project/SanGiaoDichViecLam/PresentationLayer/Pages/JobList.cshtml]
+[E:/Kiến trúc PM/SanGiaoDichViecLam/PresentationLayer/Pages/JobList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project/SanGiaoDichViecLam/PresentationLayer/Pages/Privacy.cshtml]
+[E:/Kiến trúc PM/SanGiaoDichViecLam/PresentationLayer/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project/SanGiaoDichViecLam/PresentationLayer/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[E:/Kiến trúc PM/SanGiaoDichViecLam/PresentationLayer/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project/SanGiaoDichViecLam/PresentationLayer/Pages/_ViewImports.cshtml]
+[E:/Kiến trúc PM/SanGiaoDichViecLam/PresentationLayer/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project/SanGiaoDichViecLam/PresentationLayer/Pages/_ViewStart.cshtml]
+[E:/Kiến trúc PM/SanGiaoDichViecLam/PresentationLayer/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project/SanGiaoDichViecLam/PresentationLayer/Pages/Shared/_Layout.cshtml]
+[E:/Kiến trúc PM/SanGiaoDichViecLam/PresentationLayer/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-04qrr1wqaj

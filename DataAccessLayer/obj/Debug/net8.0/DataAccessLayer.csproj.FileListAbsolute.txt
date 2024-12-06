@@ -14,3 +14,19 @@ D:\Project\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.s
 D:\Project\SanGiaoDichViecLam\DataAccessLayer\bin\Debug\net8.0\DatabaseLayer.dll
 D:\Project\SanGiaoDichViecLam\DataAccessLayer\bin\Debug\net8.0\DatabaseLayer.pdb
 D:\Project\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CopyComplete
+E:\Kiến trúc PM\SanGiaoDichViecLam\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+E:\Kiến trúc PM\SanGiaoDichViecLam\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+E:\Kiến trúc PM\SanGiaoDichViecLam\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+E:\Kiến trúc PM\SanGiaoDichViecLam\DataAccessLayer\bin\Debug\net8.0\DatabaseLayer.dll
+E:\Kiến trúc PM\SanGiaoDichViecLam\DataAccessLayer\bin\Debug\net8.0\DatabaseLayer.pdb
+E:\Kiến trúc PM\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+E:\Kiến trúc PM\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kiến trúc PM\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+E:\Kiến trúc PM\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+E:\Kiến trúc PM\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Kiến trúc PM\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+E:\Kiến trúc PM\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+E:\Kiến trúc PM\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+E:\Kiến trúc PM\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+E:\Kiến trúc PM\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+E:\Kiến trúc PM\SanGiaoDichViecLam\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

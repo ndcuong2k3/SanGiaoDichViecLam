@@ -67,6 +67,23 @@ namespace PresentationLayer
             // Tải lại trang và hiển thị danh sách tin tuyển dụng
             return RedirectToPage();
         }
+        public IActionResult OnPostDelete(int jobId)
+        {
+            try
+            {
+                // Gọi JobManager để xóa tin tuyển dụng dựa trên jobId
+                _jobManager.DeleteJob(jobId);
+                TempData["SuccessMessage"] = "Xóa tin tuyển dụng thành công.";
+            }
+            catch (Exception)
+            {
+                TempData["ErrorMessage"] = "Xóa tin tuyển dụng thất bại. Vui lòng thử lại.";
+            }
+
+            // Tải lại trang để hiển thị danh sách cập nhật
+            return RedirectToPage();
+        }
+
 
         private bool IsStringEmpty(params string[] values)
         {

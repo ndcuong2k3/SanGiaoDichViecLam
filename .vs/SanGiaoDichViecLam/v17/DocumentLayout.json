@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B994F20E-9700-40E3-959F-308640445528}|PresentationLayer\\PresentationLayer.csproj|e:\\ki\u1EBFn tr\u00FAc pm\\sangiaodichvieclam\\presentationlayer\\pages\\joblist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B994F20E-9700-40E3-959F-308640445528}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\pages\\joblist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506D2537-4E29-4B69-BE13-D05703372588}|BusinessLogicLayer\\BusinessLogicLayer.csproj|e:\\ki\u1EBFn tr\u00FAc pm\\sangiaodichvieclam\\businesslogiclayer\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{506D2537-4E29-4B69-BE13-D05703372588}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47A5F60-61E0-4B26-B36B-C56131097C23}|DataAccessLayer\\DataAccessLayer.csproj|e:\\ki\u1EBFn tr\u00FAc pm\\sangiaodichvieclam\\dataaccesslayer\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47A5F60-61E0-4B26-B36B-C56131097C23}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47A5F60-61E0-4B26-B36B-C56131097C23}|DataAccessLayer\\DataAccessLayer.csproj|e:\\ki\u1EBFn tr\u00FAc pm\\sangiaodichvieclam\\dataaccesslayer\\jobdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47A5F60-61E0-4B26-B36B-C56131097C23}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\jobdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B994F20E-9700-40E3-959F-308640445528}|PresentationLayer\\PresentationLayer.csproj|e:\\ki\u1EBFn tr\u00FAc pm\\sangiaodichvieclam\\presentationlayer\\jobpagemodle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B994F20E-9700-40E3-959F-308640445528}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\jobpagemodle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B994F20E-9700-40E3-959F-308640445528}|PresentationLayer\\PresentationLayer.csproj|e:\\ki\u1EBFn tr\u00FAc pm\\sangiaodichvieclam\\presentationlayer\\pages\\addjob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B994F20E-9700-40E3-959F-308640445528}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\pages\\addjob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4264ED-4324-42B9-9A4C-F28EE1FD6800}|DatabaseLayer\\DatabaseLayer.csproj|e:\\ki\u1EBFn tr\u00FAc pm\\sangiaodichvieclam\\databaselayer\\tintuyendung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4264ED-4324-42B9-9A4C-F28EE1FD6800}|DatabaseLayer\\DatabaseLayer.csproj|solutionrelative:databaselayer\\tintuyendung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B994F20E-9700-40E3-959F-308640445528}|PresentationLayer\\PresentationLayer.csproj|e:\\ki\u1EBFn tr\u00FAc pm\\sangiaodichvieclam\\presentationlayer\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B994F20E-9700-40E3-959F-308640445528}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B994F20E-9700-40E3-959F-308640445528}|PresentationLayer\\PresentationLayer.csproj|e:\\ki\u1EBFn tr\u00FAc pm\\sangiaodichvieclam\\presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B994F20E-9700-40E3-959F-308640445528}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B994F20E-9700-40E3-959F-308640445528}|PresentationLayer\\PresentationLayer.csproj|e:\\ki\u1EBFn tr\u00FAc pm\\sangiaodichvieclam\\presentationlayer\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B994F20E-9700-40E3-959F-308640445528}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B994F20E-9700-40E3-959F-308640445528}|PresentationLayer\\PresentationLayer.csproj|e:\\ki\u1EBFn tr\u00FAc pm\\sangiaodichvieclam\\presentationlayer\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B994F20E-9700-40E3-959F-308640445528}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B994F20E-9700-40E3-959F-308640445528}|PresentationLayer\\PresentationLayer.csproj|e:\\ki\u1EBFn tr\u00FAc pm\\sangiaodichvieclam\\presentationlayer\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B994F20E-9700-40E3-959F-308640445528}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B994F20E-9700-40E3-959F-308640445528}|PresentationLayer\\PresentationLayer.csproj|e:\\ki\u1EBFn tr\u00FAc pm\\sangiaodichvieclam\\presentationlayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B994F20E-9700-40E3-959F-308640445528}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4264ED-4324-42B9-9A4C-F28EE1FD6800}|DatabaseLayer\\DatabaseLayer.csproj|e:\\ki\u1EBFn tr\u00FAc pm\\sangiaodichvieclam\\databaselayer\\databaselayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A4264ED-4324-42B9-9A4C-F28EE1FD6800}|DatabaseLayer\\DatabaseLayer.csproj|solutionrelative:databaselayer\\databaselayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506D2537-4E29-4B69-BE13-D05703372588}|BusinessLogicLayer\\BusinessLogicLayer.csproj|e:\\ki\u1EBFn tr\u00FAc pm\\sangiaodichvieclam\\businesslogiclayer\\businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{506D2537-4E29-4B69-BE13-D05703372588}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B994F20E-9700-40E3-959F-308640445528}|PresentationLayer\\PresentationLayer.csproj|e:\\ki\u1EBFn tr\u00FAc pm\\sangiaodichvieclam\\presentationlayer\\pages\\addjob.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B994F20E-9700-40E3-959F-308640445528}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\pages\\addjob.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47A5F60-61E0-4B26-B36B-C56131097C23}|DataAccessLayer\\DataAccessLayer.csproj|e:\\ki\u1EBFn tr\u00FAc pm\\sangiaodichvieclam\\dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A47A5F60-61E0-4B26-B36B-C56131097C23}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B994F20E-9700-40E3-959F-308640445528}|PresentationLayer\\PresentationLayer.csproj|e:\\ki\u1EBFn tr\u00FAc pm\\sangiaodichvieclam\\presentationlayer\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B994F20E-9700-40E3-959F-308640445528}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobRepository.cs",
+              "DocumentMoniker": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\DataAccessLayer\\JobRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\JobRepository.cs",
+              "ToolTip": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\DataAccessLayer\\JobRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\JobRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowB8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:19:30.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobManager.cs",
+              "DocumentMoniker": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\BusinessLogicLayer\\JobManager.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\JobManager.cs",
+              "ToolTip": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\BusinessLogicLayer\\JobManager.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\JobManager.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:19:30.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobList.cshtml",
+              "DocumentMoniker": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\PresentationLayer\\Pages\\JobList.cshtml",
+              "RelativeDocumentMoniker": "PresentationLayer\\Pages\\JobList.cshtml",
+              "ToolTip": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\PresentationLayer\\Pages\\JobList.cshtml",
+              "RelativeToolTip": "PresentationLayer\\Pages\\JobList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T10:19:30.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddJob.cshtml",
+              "DocumentMoniker": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\PresentationLayer\\Pages\\AddJob.cshtml",
+              "RelativeDocumentMoniker": "PresentationLayer\\Pages\\AddJob.cshtml",
+              "ToolTip": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\PresentationLayer\\Pages\\AddJob.cshtml",
+              "RelativeToolTip": "PresentationLayer\\Pages\\AddJob.cshtml",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAwwH8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T10:19:30.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobPageModle.cs",
+              "DocumentMoniker": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\PresentationLayer\\JobPageModle.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\JobPageModle.cs",
+              "ToolTip": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\PresentationLayer\\JobPageModle.cs",
+              "RelativeToolTip": "PresentationLayer\\JobPageModle.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowE0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:19:30.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobDbContext.cs",
+              "DocumentMoniker": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\DataAccessLayer\\JobDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\JobDbContext.cs",
+              "ToolTip": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\DataAccessLayer\\JobDbContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\JobDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:19:30.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TinTuyenDung.cs",
+              "DocumentMoniker": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\DatabaseLayer\\TinTuyenDung.cs",
+              "RelativeDocumentMoniker": "DatabaseLayer\\TinTuyenDung.cs",
+              "ToolTip": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\DatabaseLayer\\TinTuyenDung.cs",
+              "RelativeToolTip": "DatabaseLayer\\TinTuyenDung.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:19:30.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\PresentationLayer\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PresentationLayer\\Pages\\Privacy.cshtml",
+              "ToolTip": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\PresentationLayer\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "PresentationLayer\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T11:00:49.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\PresentationLayer\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PresentationLayer\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\PresentationLayer\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "PresentationLayer\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T10:19:30.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\PresentationLayer\\Program.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Program.cs",
+              "ToolTip": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\PresentationLayer\\Program.cs",
+              "RelativeToolTip": "PresentationLayer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAC4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:19:30.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\PresentationLayer\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "PresentationLayer\\Pages\\Error.cshtml",
+              "ToolTip": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\PresentationLayer\\Pages\\Error.cshtml",
+              "RelativeToolTip": "PresentationLayer\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T11:00:45.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\PresentationLayer\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "PresentationLayer\\Pages\\Index.cshtml",
+              "ToolTip": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\PresentationLayer\\Pages\\Index.cshtml",
+              "RelativeToolTip": "PresentationLayer\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwB4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T10:19:30.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\PresentationLayer\\appsettings.json",
+              "RelativeDocumentMoniker": "PresentationLayer\\appsettings.json",
+              "ToolTip": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\PresentationLayer\\appsettings.json",
+              "RelativeToolTip": "PresentationLayer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-06T11:00:51.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DatabaseLayer.csproj",
+              "DocumentMoniker": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\DatabaseLayer\\DatabaseLayer.csproj",
+              "RelativeDocumentMoniker": "DatabaseLayer\\DatabaseLayer.csproj",
+              "ToolTip": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\DatabaseLayer\\DatabaseLayer.csproj",
+              "RelativeToolTip": "DatabaseLayer\\DatabaseLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-06T10:19:30.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BusinessLogicLayer",
+              "DocumentMoniker": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "ToolTip": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "RelativeToolTip": "BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-06T10:31:56.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddJob.cshtml.cs",
+              "DocumentMoniker": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\PresentationLayer\\Pages\\AddJob.cshtml.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Pages\\AddJob.cshtml.cs",
+              "ToolTip": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\PresentationLayer\\Pages\\AddJob.cshtml.cs",
+              "RelativeToolTip": "PresentationLayer\\Pages\\AddJob.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:19:30.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DataAccessLayer.csproj",
+              "DocumentMoniker": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ToolTip": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeToolTip": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-06T10:19:30.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\PresentationLayer\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PresentationLayer\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Ki\u1EBFn tr\u00FAc PM\\SanGiaoDichViecLam\\PresentationLayer\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PresentationLayer\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T10:19:30.255Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

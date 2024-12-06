@@ -17,7 +17,7 @@ namespace DatabaseLayer
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Data Source = CUONG\\MSSQLSERVER01;Initial Catalog=TestKTPM;Persist Security Info = True;TrustServerCertificate=True; User=sa;Password=cuong");
+            optionsBuilder.UseSqlServer("Data Source=LAPTOP-KPVI1J9T;Initial Catalog=KTPM;Integrated Security=True;Encrypt=True;Trust Server Certificate=True");
         }
     }
 }

@@ -9,7 +9,7 @@ builder.Services.AddRazorPages();
 
 
 builder.Services.AddDbContext<JobDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("Data Source = CUONG\\MSSQLSERVER01;Initial Catalog=TestKTPM;Persist Security Info = True;TrustServerCertificate=True; User=sa;Password=cuong")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("Data Source=LAPTOP-KPVI1J9T;Initial Catalog=KTPM;Integrated Security=True;Encrypt=True;Trust Server Certificate=True")));
 
 
 builder.Services.AddTransient<JobManager>();

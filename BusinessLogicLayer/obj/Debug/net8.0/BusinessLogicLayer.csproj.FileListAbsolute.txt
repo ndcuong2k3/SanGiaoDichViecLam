@@ -16,3 +16,21 @@ D:\Project\SanGiaoDichViecLam\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLo
 D:\Project\SanGiaoDichViecLam\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.sourcelink.json
 D:\Project\SanGiaoDichViecLam\BusinessLogicLayer\bin\Debug\net8.0\DatabaseLayer.dll
 D:\Project\SanGiaoDichViecLam\BusinessLogicLayer\bin\Debug\net8.0\DatabaseLayer.pdb
+E:\Kiến trúc PM\SanGiaoDichViecLam\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.deps.json
+E:\Kiến trúc PM\SanGiaoDichViecLam\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+E:\Kiến trúc PM\SanGiaoDichViecLam\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+E:\Kiến trúc PM\SanGiaoDichViecLam\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.dll
+E:\Kiến trúc PM\SanGiaoDichViecLam\BusinessLogicLayer\bin\Debug\net8.0\DatabaseLayer.dll
+E:\Kiến trúc PM\SanGiaoDichViecLam\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+E:\Kiến trúc PM\SanGiaoDichViecLam\BusinessLogicLayer\bin\Debug\net8.0\DatabaseLayer.pdb
+E:\Kiến trúc PM\SanGiaoDichViecLam\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+E:\Kiến trúc PM\SanGiaoDichViecLam\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kiến trúc PM\SanGiaoDichViecLam\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+E:\Kiến trúc PM\SanGiaoDichViecLam\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfo.cs
+E:\Kiến trúc PM\SanGiaoDichViecLam\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\Kiến trúc PM\SanGiaoDichViecLam\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.sourcelink.json
+E:\Kiến trúc PM\SanGiaoDichViecLam\BusinessLogicLayer\obj\Debug\net8.0\Business.450209FB.Up2Date
+E:\Kiến trúc PM\SanGiaoDichViecLam\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.dll
+E:\Kiến trúc PM\SanGiaoDichViecLam\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
+E:\Kiến trúc PM\SanGiaoDichViecLam\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
+E:\Kiến trúc PM\SanGiaoDichViecLam\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll
